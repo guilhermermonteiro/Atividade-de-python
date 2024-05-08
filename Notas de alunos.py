@@ -2,7 +2,7 @@ import os
 QUANTIDADES_NOTAS=3
 soma=0
 media=0
-
+nota=0
 os.system("cls || clear")
 
 for i in range(QUANTIDADES_NOTAS):
